@@ -1,7 +1,7 @@
 # Excercise 7 
 
 A SCITOS G5 robot was remote controlled along a wall while the readings of its 24 ultrasonic sensors were recorded. By using this data, build an AI model which can independently drive the robot along a wall. Separate 25 % of the data into a test dataset to validate the accuracy of your model. Use the logistic regression model as your machine learning algorithm.
-![](ex7)
+![](ex7.png)
 
 # Exercise 8 
 
@@ -14,7 +14,7 @@ Repeat the previous exercise but use the Neural Network as your machine learning
 # Exercise 10
 
 Use the dataset heart.csv to build neural network, which predicts if the patient has an increased chance of heart attack (variable Output in heart.csv). Separate 25 % of the data into a test data. Report the accuracy of your model in both train and test datasets.
-![](ex10)
+![](ex10.png)
 
 Explanation of the variables (treat “cp” as a categorical variable):
 
